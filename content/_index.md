@@ -7,20 +7,24 @@ sort_by = "date"
 
 weight = 0
 
-# page_template = 
+template = "index.html"
 
 +++
 
 # Welcome to my Website
 
-Want to know more [about me]()
+Want to know more [about me](./about/_index.md)
 
 ## My Projects
 
-Fun Stuff
+Come check out all my projects [here](./projects/)
 
 ## My Blog
 
-blah blah blah
+blah blah blah see me yap [here](./blog/)
+
+## Photography
+
+Here's a collection of my [photos](./photos/)
 
 
