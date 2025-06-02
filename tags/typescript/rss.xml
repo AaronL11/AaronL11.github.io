@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Aaron Lengyel&#x27;s website - typescript</title>
+      <link>https://AaronL11.github.io</link>
+      <description>The personal website of Aaron Lengyel, Bsc. Mathematics UCalgary</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://AaronL11.github.io/tags/typescript/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Calgary Hacks 2024</title>
+          <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/calhax-2024/</link>
+          <guid>https://AaronL11.github.io/projects/calhax-2024/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/calhax-2024/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AaronL11&#x2F;Calgary-Hacks-2024&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=Calgary-Hacks-2024&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

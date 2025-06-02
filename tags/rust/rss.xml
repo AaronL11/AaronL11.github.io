@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Aaron Lengyel&#x27;s website - rust</title>
+      <link>https://AaronL11.github.io</link>
+      <description>The personal website of Aaron Lengyel, Bsc. Mathematics UCalgary</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://AaronL11.github.io/tags/rust/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Calgary Hacks 2025</title>
+          <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/calhax-2025/</link>
+          <guid>https://AaronL11.github.io/projects/calhax-2025/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/calhax-2025/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AaronL11&#x2F;CalgaryHacks2025&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=CalgaryHacks2025&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Calgary Hacks 2024</title>
+          <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/calhax-2024/</link>
+          <guid>https://AaronL11.github.io/projects/calhax-2024/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/calhax-2024/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AaronL11&#x2F;Calgary-Hacks-2024&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=Calgary-Hacks-2024&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Calgary Hacks 2022</title>
+          <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/calhax-2022/</link>
+          <guid>https://AaronL11.github.io/projects/calhax-2022/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/calhax-2022/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=Calgary-Hacks-2024&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Constant Matrices</title>
+          <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/const-matrices/</link>
+          <guid>https://AaronL11.github.io/projects/const-matrices/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/const-matrices/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AaronL11&#x2F;const_matrices&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=const_matrices&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;!-- (https:&#x2F;&#x2F;github.com&#x2F;anuraghazra&#x2F;github-readme-stats) --&gt;
+&lt;h1 id=&quot;unitex&quot;&gt;UniTeX&lt;&#x2F;h1&gt;
+&lt;p&gt;Hello There&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Rust Abstract Algebraic Types</title>
+          <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/raat/</link>
+          <guid>https://AaronL11.github.io/projects/raat/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/raat/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AaronL11&#x2F;raat&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=raat&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;!-- (https:&#x2F;&#x2F;github.com&#x2F;anuraghazra&#x2F;github-readme-stats) --&gt;
+&lt;h1 id=&quot;unitex&quot;&gt;UniTeX&lt;&#x2F;h1&gt;
+&lt;p&gt;Hello There&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>UniTeX</title>
+          <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/unitex/</link>
+          <guid>https://AaronL11.github.io/projects/unitex/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/unitex/">&lt;!-- ![Readme Card](https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;repo=UniTeX&amp;theme=transparent&amp;border_color=4fb0a5) --&gt;
+&lt;!-- (https:&#x2F;&#x2F;github.com&#x2F;anuraghazra&#x2F;github-readme-stats) --&gt;
+&lt;h1 id=&quot;unitex&quot;&gt;UniTeX&lt;&#x2F;h1&gt;
+&lt;p&gt;Hello There&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

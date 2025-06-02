@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Aaron Lengyel&#x27;s website - chrome</title>
+      <link>https://AaronL11.github.io</link>
+      <description>The personal website of Aaron Lengyel, Bsc. Mathematics UCalgary</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://AaronL11.github.io/tags/chrome/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Calgary Hacks 2021</title>
+          <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+          <author>Aaron Lengyel</author>
+          <link>https://AaronL11.github.io/projects/calhax-2021/</link>
+          <guid>https://AaronL11.github.io/projects/calhax-2021/</guid>
+          <description xml:base="https://AaronL11.github.io/projects/calhax-2021/">&lt;blockquote class=&quot;note&quot;&gt;
+	&lt;p class=&quot;alert-title&quot;&gt;
+		&lt;i class=&quot;icon&quot;&gt;&lt;&#x2F;i&gt;Note&lt;&#x2F;p&gt;
+	&lt;p&gt;There currently does not exist a repository for this project since it was completed during my first year
+and none of my group members used GitHub.&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+</description>
+      </item>
+    </channel>
+</rss>

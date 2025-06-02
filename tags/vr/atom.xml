@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Aaron Lengyel&#x27;s website - vr</title>
+    <subtitle>The personal website of Aaron Lengyel, Bsc. Mathematics UCalgary</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://AaronL11.github.io/tags/vr/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://AaronL11.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-02-16T00:00:00+00:00</updated>
+    <id>https://AaronL11.github.io/tags/vr/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Calgary Hacks 2025</title>
+        <published>2025-02-16T00:00:00+00:00</published>
+        <updated>2025-02-16T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Aaron Lengyel
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://AaronL11.github.io/projects/calhax-2025/"/>
+        <id>https://AaronL11.github.io/projects/calhax-2025/</id>
+        
+        <content type="html" xml:base="https://AaronL11.github.io/projects/calhax-2025/">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AaronL11&#x2F;CalgaryHacks2025&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github-readme-stats.vercel.app&#x2F;api&#x2F;pin&#x2F;?username=AaronL11&amp;amp;repo=CalgaryHacks2025&amp;amp;theme=transparent&amp;amp;border_color=4fb0a5&quot; alt=&quot;Readme Card&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
