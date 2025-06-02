@@ -1,6 +1,10 @@
 +++
-title = "List of projects"
+title = "List of Projects"
 sort_by = "date"
-template = "projects.html"
-page_template = "project-page.html"
+template = "article_list.html"
+page_template = "article.html"
+
+paginate_by = 5
+
+[extra]
 +++

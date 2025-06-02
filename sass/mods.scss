@@ -1,0 +1,19 @@
+@import "../themes/duckquill/sass/_variables.scss";
+
+@include theme-variables using ($theme) {
+    @if $theme =="dark" {
+        --bg-overlay: linear-gradient(rgb(0 0 0 / 0.9), rgb(0 0 0 / 0.9));
+    }
+
+    @else {
+        --bg-overlay: linear-gradient(rgb(255 255 255 / 0.8), rgb(255 255 255 / 0.8));
+    }
+}
+
+body {
+    background-image: var(--bg-overlay), url("P1080301.JPG");
+    /* url("../static/P1080369.JPG"); */
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}

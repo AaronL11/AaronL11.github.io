@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ section.content | safe }}
+<article class="wrapper grid">
+    <section class="about">
+        <hgroup>
+            <h1>
+                Who am I?
+            </h1>
+            <p>
+                {{ section.description }}
+            </p>
+        </hgroup>
+        <a href="/about/">
+            <button class="about__button">
+                Read More
+            </button>
+        </a>
+    </section>
+    <section class="blogs">
+        <article class="blogs__content">
+            <div>
+                {{ section.content | safe }}
+            </div>
+        </article>
+        <menu class="blogs__new">
+            {% set blogs = get_section(path=section.subsections.0) %}
+            {% for i in range(start=0,end=2) %}
+            {% if i < blogs.pages | length %} <li class="blogs__new__post">
+                {% set page = blogs.pages[i] %}
+                <article>
+                    <hgroup>
+                        <h3 class="blogs__new__headline">
+                            <a href="">
+                                {{ page.title }}
+                            </a>
+                        </h3>
+                        <p class="blogs__new__description">
+                            {{ page.description }}
+                        </p>
+                    </hgroup>
+                </article>
+                </li>
+                {% endif %}
+                {% endfor %}
+        </menu>
+        <article class="blogs__topics">
+        </article>
+    </section>
+    <section class="project">
+        <h2 class="project__header">
+            Projects
+        </h2>
+        <menu>
+            {% set projects = get_section(path=section.subsections.1) %}
+            {% for project in projects.pages %}
+            <li>
+                <article class="project__item">
+                    <img src="" alt="" class="project__image">
+                    <div class="project__number"></div>
+                    <hgroup>
+                        <h3 class="project__name"></h3>
+                        <p class="project__description"></p>
+                    </hgroup>
+                </article>
+            </li>
+            {% endfor %}
+        </menu>
+    </section>
+</article>
+{% endblock content %}

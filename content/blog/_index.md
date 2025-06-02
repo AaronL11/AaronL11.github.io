@@ -1,6 +1,10 @@
 +++
-title = "List of blog posts"
+title = "List of Blog Posts"
 sort_by = "date"
-template = "blog.html"
-page_template = "blog-page.html"
+template = "article_list.html"
+page_template = "article.html"
+
+paginate_by = 5
+
+[extra]
 +++

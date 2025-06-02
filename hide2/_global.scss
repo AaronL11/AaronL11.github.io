@@ -1,0 +1,52 @@
+:root {
+    --background-colour-light: #071618;
+    --text-colour-light: #f8fcfb;
+    --primary-light: #4fb0a5;
+    --secondary-light: #b4a44b;
+    --accent-light: #d482c4;
+    --background-colour-dark: #e7f6f8;
+    --text-colour-dark: #030706;
+    --primary-dark: #4fb0a5;
+    --secondary-dark: #b4a44b;
+    --accent-dark: #7d2b6d;
+}
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    // font-family: ;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.1;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    // Don't want with larger than 110 pixels
+    width: min(1110px, 100%)
+}

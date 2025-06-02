@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+{% set top = get_section(path="../content/_index.md") %}
+
+<head>
+    <meta charset="utf-8">
+    <meta name="" viewport" content="width-device-width,initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css"
+        integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous">
+    <title>{{ top.title }}</title>
+</head>
+
+<body>
+    <header class="wrapper">
+        <!-- Picture / Link -->
+        <a href="/">
+            <img src="/" alt="Homepage" width="" height="" />
+        </a>
+        <!-- Navbar Section -->
+        <nav class="navbar">
+            <menu class="navbar__menu">
+                <li class="navbar__menu--item">
+                    <a href="/" class="navbar__menu--link">
+                        Home
+                    </a>
+                </li>
+                {% for section_path in top.subsections %}
+                {% set section = get_section(path=section_path) %}
+                <li class="navbar__menu--item">
+                    <a href={{section.path}} class="navbar__menu--link">
+                        {{ section.components.0 | capitalize }}
+                    </a>
+                </li>
+                {% endfor %}
+            </menu>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %} {% endblock content %}
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+
+</html>

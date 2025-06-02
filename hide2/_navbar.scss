@@ -1,0 +1,52 @@
+// @import 'colors';
+// @import 'media-queries';
+
+// %align-center {
+//     display: flex;
+//     align-items: center;
+// }
+
+// %theme {}
+
+// .navbar {
+//     background: $light;
+//     height: 80px;
+//     display: flex;
+//     justify-content: space-between;
+//     padding: 0.5rem calc((100vw - 1200px) / 2);
+//     z-index: 10;
+//     position: relative;
+
+//     &__logo {
+//         @extend %align-center;
+//         color: $dark;
+//         cursor: pointer;
+//         text-decoration: none;
+//         font-size: 2rem;
+//         margin-left: 24px;
+//     }
+
+//     &__bars {
+//         opacity: 0;
+//     }
+
+//     &__menu {
+//         @extend %align-center;
+//         list-style: none;
+//         text-align: center;
+//         margin-right: 24px;
+
+//         &--links {
+//             @extend %align-center;
+//             color: $dark;
+//             justify-content: center;
+//             text-decoration: none;
+//             padding: 0 1rem;
+
+//             &:hover {
+//                 color: $lime;
+//                 transition: all 0.3s ease;
+//             }
+//         }
+//     }
+// }
