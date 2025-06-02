@@ -114,6 +114,7 @@ accent_color_dark = "#377E76"
 # Only one emoji is being rendered, everything else is truncated.
 #
 emoji_favicon = "🦀"
+card = false
 #
 # URL to website's issue tracker
 issues_url = "https://github.com/AaronL11/AaronL11.github.io/issues/"
