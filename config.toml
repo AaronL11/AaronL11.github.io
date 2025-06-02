@@ -1,5 +1,5 @@
 title = "Aaron Lengyel"
-base_url = "https://aaronlengyel.com"
+base_url = "https://AaronL11.github.io"
 description = "The personal website of Aaron Lengyel, Bsc. Mathematics UCalgary"
 
 compile_sass = true
@@ -116,9 +116,9 @@ accent_color_dark = "#377E76"
 # emoji_favicon = "🦆🪶"
 #
 # URL to website's issue tracker
-issues_url = "https://codeberg.org/daudix/duckquill/issues"
+issues_url = "https://github.com/AaronL11/AaronL11.github.io/issues/"
 # URL to website's source code
-source_url = "https://codeberg.org/daudix/duckquill"
+source_url = "https://github.com/AaronL11/AaronL11.github.io/"
 # Additional CSS styles; expects them to be in the "./static/" directory.
 # If you are using Sass it will be generated there automatically.
 #
