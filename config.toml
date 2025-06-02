@@ -131,6 +131,7 @@ styles = ["mods.css"]
 #   "ALSO_YOUR_SCRIPT.js"
 # ]
 #
+card = "P1080369.JPG"
 # Whether to show "copy code" button on all code blocks
 # that have the language set.
 # See https://www.getzola.org/documentation/content/syntax-highlighting/
