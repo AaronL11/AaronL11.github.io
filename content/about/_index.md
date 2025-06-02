@@ -16,7 +16,7 @@ Hello, I am Aaron. I have a bachelor's degree in mathematics from the
 [University of Calgary](https://www.ucalgary.ca/).
 I am 24 years old and made this website to show off my [projects](/projects/), but mostly just to
 talk about things that interest me on my [blog](/blog/).
-I wrote my [undergraduate Honour's thesis](/forms/Honur_s_Thesis.pdf),
+I wrote my [undergraduate Honour's thesis](/forms/Honour_s_Thesis.pdf),
 on the operational semantics of generalized theories of probability, with a focus on possibilistic theories.
 My thesis was supervised by Dr. Carlo Maria Scandolo and Msc. Sam Steakly at the University of Calgary.
 
